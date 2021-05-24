@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Settlepay</string>
+
+    //MainActivity
+    <string name="web_transaction_title">Платежная страница</string>
+    <string name="web_transaction_button">Прием платежей</string>
+    <string name="web_transaction_with_token_button">Транзакция с токенизацией</string>
+    <string name="web_transaction_to_card_button">Перевод с карты на карту</string>
+    <string name="web_transaction_status_button">Статус транзакции</string>
+    <string name="web_transaction_cancel_button">Отмена транзакции</string>
+    <string name="web_transaction_token_card_button">Токенизация карты</string>
+    <string name="host_transaction_button">Host to host</string>
+    <string name="host_transaction_status_button">Статус 3DS транзакции</string>
+
+    <string name="post_transaction">HOST Transaction</string>
+
+    <string name="dialog_card_number_title">Перевод</string>
+    <string name="dialog_card_number_text">Введите карту получателя</string>
+    <string name="dialog_transaction_number_text">Введите номер транзакции</string>
+    <string name="dialog_transaction_summ_text">Введите сумму</string>
+    <string name="last_transaction_id_text">ID последней транзакции:</string>
+    <string name="last_transaction_status_text">Статус последней транзакции:</string>
+    <string name="last_transaction_card_number_text">Номер карты:</string>
+    <string name="last_transaction_card_token_text">Токен карты:</string>
+
+
+    <string name="dialog_transaction_status_text">Введите данные транзакции</string>
+    <string name="md_text_hint">Введите MD</string>
+    <string name="pares_text_hint">Введите PaRes</string>
+    <string name="id_text_hint">Введите ID транзакции</string>
+
+    <string name="number_transaction_text">Номер транзакции</string>
+
+    //CardInputActivity
+    <string name="dialog_enter_lookup_code_text">Введите Lookup код</string>
+    <string name="dialog_enter_otp_code_text">Введите OTP код</string>
+
+
+</resources>
